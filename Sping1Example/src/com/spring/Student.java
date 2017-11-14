@@ -11,8 +11,8 @@ public class Student {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
-	public void displayInfo(){
-		System.out.println("Hello: "+name);
+
+	public void displayInfo() {
+		System.out.println("Hello: " + name);
 	}
 }
